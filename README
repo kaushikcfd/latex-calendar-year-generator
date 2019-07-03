@@ -1,0 +1,11 @@
+usage: calendar-generator.py [-h] [--year Y] [--fname F]
+
+Generate PDF for a calendar year
+
+optional arguments:
+  -h, --help  show this help message and exit
+  --year Y    Year of the calendar(for ex. '2019')
+  --fname F   filename of the PDF to generate(for ex. 'cal-2019.pdf')
+
+
+Gallery: <https://github.com/kaushikcfd/latex-calendar-year-generator/blob/master/cal-2019.pdf>
